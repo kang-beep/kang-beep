@@ -1,6 +1,6 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kang-beep)](https://github.com/anuraghazra/github-readme-stats) <br>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sdagarw1234)](https://solved.ac/sdagarw1234)
+## [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=sdagarw1234)](https://solved.ac/sdagarw1234)
 
 <!--
 **kang-beep/kang-beep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
