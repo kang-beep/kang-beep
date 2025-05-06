@@ -1,4 +1,4 @@
-### 🛠️ 기술 스택
+### 🛠️ Technical Stack
 
 **Programming Languages:**
 <br>
@@ -40,14 +40,14 @@
 
 ---
 
-### 🌱 Develop
+### 💻 Current Development
 
 * 인공지능 모델 개발 및 응용
 * WPF를 활용한 사용자 인터페이스 디자인 및 개발
 
 ---
 
-### 🔭 관심 분야
+### 🔭 Areas of Interest
 
 * 머신러닝, 딥러닝
 * 사용자 경험(UX) 디자인
