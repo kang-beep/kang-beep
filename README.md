@@ -55,11 +55,5 @@
 
 ---
 
-### 🤝 협업 및 소통
-
-새로운 아이디어를 공유하고 함께 성장하는 것을 즐깁니다. 인공지능 또는 WPF 관련 프로젝트에 관심 있으시면 언제든지 편하게 연락 주세요!
-
----
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kang-beep&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
