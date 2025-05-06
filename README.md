@@ -1,6 +1,3 @@
-
----
-
 ### 🛠️ 기술 스택
 
 **Programming Languages:**
