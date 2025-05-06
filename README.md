@@ -1,4 +1,4 @@
-### 🧑‍💻 
+### 🧑‍💻 직무
 
 안녕하세요! 저는 인공지능과 WPF 기반의 소프트웨어 개발을 공부하고 만들어가는 개발자입니다.
 
@@ -6,13 +6,22 @@
 
 ### 🛠️ 기술 스택
 
+**Programming Languages:**
 <br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+<br>
+
+**Frameworks & Libraries:**
+<br>
 <img src="https://img.shields.io/badge/WPF-5A157A?style=for-the-badge&logo=windows-alt&logoColor=white" alt="WPF">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+<br>
+
+**Tools & Platforms:**
+<br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 <br>
