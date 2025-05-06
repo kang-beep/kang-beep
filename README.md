@@ -1,6 +1,6 @@
 ### 🧑‍💻 직무
 
-안녕하세요! 저는 인공지능과 WPF 기반의 소프트웨어 개발을 공부하고 만들어가는 개발자입니다.
+안녕하세요! 저는 소프트웨어 개발을 공부하고 만들어가는 개발자입니다. 
 
 ---
 
@@ -12,6 +12,11 @@
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
 <br>
 
+**C# Frameworks:**
+<br>
+<img src="https://img.shields.io/badge/WPF-5A157A?style=for-the-badge&logo=windows-alt&logoColor=white" alt="WPF">
+<br>
+
 **Python Frameworks:**
 <br>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
@@ -19,9 +24,8 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask">
 <br>
 
-**WPF & AI Libraries:**
+**AI Libraries:**
 <br>
-<img src="https://img.shields.io/badge/WPF-5A157A?style=for-the-badge&logo=windows-alt&logoColor=white" alt="WPF">
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow">
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn">
