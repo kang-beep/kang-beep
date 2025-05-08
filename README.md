@@ -55,7 +55,6 @@
 
 ---
 ### 📝 기술 블로그
-개발 경험과 학습한 내용을 공유하는 공간입니다.
 [![GitHub Blog](https://img.shields.io/badge/방문하기-12100E?style=for-the-badge&logo=github&logoColor=white)](https://kang-beep.github.io)
 ---
 
