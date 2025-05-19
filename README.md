@@ -1,3 +1,5 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kang-beep&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+--- 
 ### 💻 Current Development
 
 * 인공지능 모델 개발 및 응용
@@ -59,5 +61,3 @@
 ---
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kang-beep&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
