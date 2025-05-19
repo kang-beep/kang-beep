@@ -1,3 +1,21 @@
+### 💻 Current Development
+
+* 인공지능 모델 개발 및 응용
+* WPF를 활용한 사용자 인터페이스 디자인 및 개발
+
+---
+
+### 🔭 Areas of Interest
+
+* 머신러닝(machine running)&딥러닝(deep running)
+* 사용자 경험(UX) 디자인
+* 클린 아키텍처
+
+---
+### 📝 기술 블로그
+[![GitHub Blog](https://img.shields.io/badge/방문하기-12100E?style=for-the-badge&logo=github&logoColor=white)](https://kang-beep.github.io)
+---
+
 ### 🛠️ Technical Stack
 
 **Programming Languages**
@@ -40,22 +58,6 @@
 
 ---
 
-### 💻 Current Development
 
-* 인공지능 모델 개발 및 응용
-* WPF를 활용한 사용자 인터페이스 디자인 및 개발
-
----
-
-### 🔭 Areas of Interest
-
-* 머신러닝(machine running)&딥러닝(deep running)
-* 사용자 경험(UX) 디자인
-* 클린 아키텍처
-
----
-### 📝 기술 블로그
-[![GitHub Blog](https://img.shields.io/badge/방문하기-12100E?style=for-the-badge&logo=github&logoColor=white)](https://kang-beep.github.io)
----
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kang-beep&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
