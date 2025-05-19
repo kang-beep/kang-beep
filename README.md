@@ -7,7 +7,6 @@
 * WPF를 활용한 사용자 인터페이스 디자인 및 개발
 
 ---
-
 ### 🔭 Areas of Interest
 
 * 머신러닝(machine running)&딥러닝(deep running)
