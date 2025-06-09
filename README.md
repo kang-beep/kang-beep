@@ -22,7 +22,7 @@
 [![GitHub Blog](https://img.shields.io/badge/방문하기-12100E?style=for-the-badge&logo=github&logoColor=white)](https://kang-beep.github.io)
 ---
 ### 💻 Current Development
-
+* 공정 데이터 전처리 및 분석
 * 인공지능 모델 개발 및 응용
 * WPF를 활용한 사용자 인터페이스 디자인 및 백엔드 구축
 
