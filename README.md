@@ -3,14 +3,8 @@
 <div align="center">
 <table>
 <tr>
-<td width="35%" align="center" valign="top">
+<td align="center" valign="top">
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjYwaTV2eTJyeHI2cWE0ZThocG8xa3UzaHdqbHd0bWRoajE5d2t2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x7hmKt1SRqm81anh0K/giphy.gif" width="180">
-</td>
-  
-<td width="65%">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kang-beep&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)](https://github.com/anuraghazra/github-readme-stats)
-
 </td>
 </tr>
 </table>
