@@ -13,6 +13,7 @@
 
 --- 
 ### 기술 블로그
+[![Portfolio Blog](https://img.shields.io/badge/방문하기-12100E?style=for-the-badge&logo=github&logoColor=white)](https://my-portfolio-blog-kappa.vercel.app/)
 [![GitHub Blog](https://img.shields.io/badge/방문하기-12100E?style=for-the-badge&logo=github&logoColor=white)](https://kang-beep.github.io)
 ---
 ### Current Development
