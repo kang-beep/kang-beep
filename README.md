@@ -1,14 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20Kang's%20GitHub!&fontSize=30&fontAlignY=35&animation=twinkling&fontColor=white"/>
-
-<div align="center">
-<table>
-<tr>
-<td align="center" valign="top">
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjYwaTV2eTJyeHI2cWE0ZThocG8xa3UzaHdqbHd0bWRoajE5d2t2MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/x7hmKt1SRqm81anh0K/giphy.gif" width="180">
-</td>
-</tr>
-</table>
-
 </div>
 
 --- 
