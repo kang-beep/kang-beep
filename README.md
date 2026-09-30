@@ -6,19 +6,6 @@
 [![Portfolio Blog](https://img.shields.io/badge/방문하기-FF6600?style=for-the-badge&logo=rss&logoColor=white)](https://kang-beep-blog.vercel.app/)
 [![GitHub Blog](https://img.shields.io/badge/방문하기-12100E?style=for-the-badge&logo=github&logoColor=white)](https://kang-beep.github.io)
 ---
-### Current Development
-* 공정 데이터 전처리 및 분석
-* 인공지능 모델 개발 및 응용
-* 풀스택 어플리케이션 개발
-
----
-### Areas of Interest
-
-* 머신러닝(machine running) & 딥러닝(deep running)
-* 클린 아키텍처
-* 사용자 경험(UX) 디자인
-  
----
 
 ### Technical Stack
 
