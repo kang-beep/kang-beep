@@ -1,6 +1,4 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Welcome%20to%20Kang's%20GitHub!&fontSize=30&fontAlignY=35&animation=twinkling&fontColor=white"/>
-
---- 
 ### My Blog
 [![Portfolio Blog](https://img.shields.io/badge/방문하기-FF6600?style=for-the-badge&logo=rss&logoColor=white)](https://kang-beep-blog.vercel.app/)
 ---
