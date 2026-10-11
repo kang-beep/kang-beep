@@ -2,7 +2,7 @@
 </div>
 
 --- 
-### 기술 블로그
+### My Blog
 [![Portfolio Blog](https://img.shields.io/badge/방문하기-FF6600?style=for-the-badge&logo=rss&logoColor=white)](https://kang-beep-blog.vercel.app/)
 ---
 
